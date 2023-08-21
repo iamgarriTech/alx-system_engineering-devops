@@ -1,0 +1,19 @@
+
+What is a postmortem activity?
+A postmortem activity is a meeting or investigation that is held after an outage or incident to identify the root cause of the problem and to prevent it from happening again. The postmortem activity typically involves the following steps:
+Identify the affected systems and services.
+Determine the impact of the outage or incident.
+Identify the root cause of the problem.
+Develop corrective and preventative measures.
+Communicate the results of the postmortem activity to the appropriate stakeholders.
+Here is a diagram that illustrates the postmortem activity process:
+[Diagram of a postmortem activity process. The process starts with identifying the affected systems and services. Then, the impact of the outage or incident is determined. The root cause of the problem is identified next. Corrective and preventative measures are developed. The results of the postmortem activity are communicated to the appropriate stakeholders.]
+The postmortem activity is an important part of incident response. By identifying the root cause of the problem and developing corrective and preventative measures, the postmortem activity can help to prevent future outages and incidents.
+Here are some additional tips for conducting a postmortem activity:
+Be inclusive. Invite all stakeholders who were affected by the outage or incident to the postmortem activity. This includes engineers, product managers, operations staff, and customers.
+Be transparent. Be honest and transparent about the mistakes that were made. This will help to build trust and prevent future mistakes.
+Be objective. Do not assign blame during the postmortem activity. Instead, focus on identifying the root cause of the problem.
+Be actionable. Develop specific corrective and preventative measures. These measures should be measurable and achievable.
+Be timely. Conduct the postmortem activity as soon as possible after the outage or incident. This will help to preserve the memories of the people involved.
+By following these tips, you can conduct a postmortem activity that is effective and productive. This will help to improve your organisation's incident response and prevent future outages and incidents.
+. . . .
