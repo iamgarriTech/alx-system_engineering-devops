@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# a  script that uses ssh to connect to web-01 server using the private key ~/.ssh/school with the user ubuntu
+
+eval $("ssh-agent")
+ssh-add ~/.ssh/school
+#ssh-add ~/.ssh/school
+ssh ubuntu@54.160.121.63
